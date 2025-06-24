@@ -10,5 +10,7 @@ This application offers a range of configurable settings, allowing users to opti
 - topjohnwu / Magisk - Magisk
 - @NotZeetaa / App
 
-## Download 
+## Download
+
+### Magisk
 https://github.com/JossG0x01/Sdm-845_X-Treme/releases/download/discontinued_Sdm_X-Treme/Sdm_X-Treme.zip

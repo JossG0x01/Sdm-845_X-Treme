@@ -2,7 +2,7 @@
 
 ## Credits
 - topjohnwu / Magisk - Magisk
-- @zeeta
+- @NotZeetaa
 
 ## Download 
 https://github.com/JossG0x01/XtremeZRam/releases/download/v1.0/XtremeZRam_v1.0.zip

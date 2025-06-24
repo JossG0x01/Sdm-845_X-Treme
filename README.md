@@ -11,4 +11,4 @@ This application offers a range of configurable settings, allowing users to opti
 - @NotZeetaa / App
 
 ## Download 
-https://github.com/JossG0x01/Sdm-845_X-Treme/releases/download/discontinued_Sdm_X-Treme/XtremeZRam_v1.0.zip
+https://github.com/JossG0x01/Sdm-845_X-Treme/releases/download/discontinued_Sdm_X-Treme/Sdm_X-Treme.zip
